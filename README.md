@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning flutter(mobile application development)
 - 🌱 I’m currently learning github
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me muhammad.techpreneur@gmail.com
+- 📫 How to reach me muhammadshah1182003@gmail.co 
 - 😄 Pronouns:he/him
 - ⚡ fun fact:"My greatest coding skill? Knowing the right question to Google."
 
