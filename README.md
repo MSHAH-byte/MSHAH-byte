@@ -37,8 +37,12 @@ Dedicated to architecting high-performance, scalable, and secure mobile applicat
 ---
 
 ### 📊 Engineering Metrics
-![Muhammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MSHAH-byte&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MSHAH-byte&layout=compact&theme=dark)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MSHAH-byte&show_icons=true&theme=tokyonight" alt="Muhammad Shah Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSHAH-byte&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
