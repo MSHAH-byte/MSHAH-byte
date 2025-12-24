@@ -1,7 +1,7 @@
 # 👋 I'm Muhammad Shah
 
-### Flutter Developer | Firebase Specialist
-I build functional, beautiful mobile applications using Flutter. My work focuses on connecting clean user interfaces with real-time databases.
+### Software Engineer | Flutter & Firebase Specialist
+I am a Software Engineer with experience developing **10+ mobile applications** using the Flutter framework. I specialize in building functional, high-performance apps that bridge the gap between clean user interfaces and robust, real-time backend systems.
 
 ---
 
@@ -12,7 +12,8 @@ I build functional, beautiful mobile applications using Flutter. My work focuses
 
 ---
 
-### 📂 Key Projects
+### 📂 Featured Projects
+*Below are 4 of my top-tier projects highlighting different engineering specializations:*
 
 #### 📸 [Finstagram](https://github.com/MSHAH-byte/Finstagram)
 A full-stack social media app. Includes user accounts, image uploads to Firebase, and a real-time feed with likes and comments.
@@ -29,6 +30,7 @@ A dedicated security project focusing on Firebase user registration, login flows
 ---
 
 ### 📫 Get In Touch
+* **LinkedIn:** [linkedin.com/in/your-profile-url](https://linkedin.com/in/your-profile-url) 
 * **Email:** muhammadshah1182003@gmail.com
 * **Location:** Peshawar, Pakistan
 * **GitHub:** [MSHAH-byte](https://github.com/MSHAH-byte)
