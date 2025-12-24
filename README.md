@@ -1,52 +1,52 @@
-# Hi 👋, I'm Muhammad Shah
-
-### 📱 Flutter & Firebase Engineer
-Dedicated to architecting high-performance, scalable, and secure mobile applications. My focus is on writing clean, maintainable Dart code and delivering seamless user experiences through robust backend integration.
+# ⚡ Muhammad Shah
+### Building the future of mobile, one pixel at a time.
 
 ---
 
-### 🚀 Technical Arsenal
-
-**Core Technologies**
-<p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-</p>
-
-**Engineering Tools**
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/App_Architecture-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/State_Management-FF61F6?style=for-the-badge&logo=dart&logoColor=white" />
-</p>
+### 🟢 About the Engineer
+I am a **Flutter & Firebase Specialist** focused on the intersection of high-end aesthetics and robust backend architecture. My approach treats mobile development as a craft—where clean Dart code meets scalable cloud infrastructure.
 
 ---
 
-### 📂 Featured Mobile Portfolio
-
-| Project | Specialization | Tech Stack |
-| :--- | :--- | :--- |
-| **[Finstagram](https://github.com/MSHAH-byte/Finstagram)** | Full-Stack Social Engineering | Flutter, Firestore, Cloud Storage |
-| **[Coincap](https://github.com/MSHAH-byte/Coincap)** | Financial Data & API Handling | REST API, Asynchronous Programming |
-| **[Authify](https://github.com/MSHAH-byte/Authify)** | Identity & Security | Firebase Auth, Secure Gateways |
-| **[Gamify](https://github.com/MSHAH-byte/Gamify)** | Advanced UX/UI Implementation | Explicit Animations, Responsive Design |
-
----
-
-### 📊 Engineering Metrics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MSHAH-byte&show_icons=true&theme=tokyonight" alt="Muhammad Shah Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSHAH-byte&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+### 🏗️ My Core Stack
+| Area | Expertise |
+| :--- | :--- |
+| **Frontend** | `Flutter` • `Material 3` • `Implicit/Explicit Animations` |
+| **Backend** | `Firebase` • `Firestore` • `NoSQL Design` • `Cloud Storage` |
+| **Architect** | `State Management` • `RESTful APIs` • `Auth Gateways` |
+| **Toolbox** | `Git` • `Android SDK` • `VS Code` • `Figma` |
 
 ---
 
-### 📫 Contact & Collaboration
-- **Email:** muhammadshah1182003@gmail.com
-- **Location:** Peshawar, Pakistan
-- **Current Goal:** Mastering advanced state management and scalable app architectures.
+### 🚀 Selected Works
+
+#### 📸 **Finstagram**
+> **Social Engineering Case Study**
+> Implemented a full-scale media ecosystem featuring real-time feeds, personal galleries, and social engagement logic.
+> [Explore Repository →](https://github.com/MSHAH-byte/Finstagram)
+
+#### 📉 **Coincap**
+> **Asynchronous Data Handling**
+> A financial dashboard utilizing the CoinGecko API to process and visualize real-time market fluctuations.
+> [Explore Repository →](https://github.com/MSHAH-byte/Coincap)
+
+#### 🎮 **Gamify**
+> **Advanced UX/UI Showcase**
+> A masterclass in Flutter animations, focusing on high-fidelity transitions and immersive user journeys.
+> [Explore Repository →](https://github.com/MSHAH-byte/Gamify)
+
+#### 🔐 **Authify**
+> **Security & Logic**
+> A robust identity management system demonstrating secure Firebase authentication workflows.
+> [Explore Repository →](https://github.com/MSHAH-byte/Authify)
+
+---
+
+### 🎯 2025 Vision
+* **Current Research:** Mastering Clean Architecture and TDD (Test Driven Development) in Flutter.
+* **Open for:** High-impact mobile collaborations and technical engineering roles.
+
+---
+
+### 📬 Establish Connection
+[**Email Me**](mailto:muhammadshah1182003@gmail.com) • [**GitHub**](https://github.com/MSHAH-byte) • **Peshawar, Pakistan**
