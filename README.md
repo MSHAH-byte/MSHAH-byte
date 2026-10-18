@@ -21,13 +21,16 @@ Software Engineering graduate with hands-on experience building **AI-powered, fu
 
 ### 📂 Featured Projects
 
-#### 🚀 [LeadFlow](https://github.com/MSHAH-byte/Leadflow)
+#### 🚀 [LeadFlow — Live App](https://leadflow-nu-beige.vercel.app/) · [GitHub Repository](https://github.com/MSHAH-byte/Leadflow)
 
 **AI Lead Qualification Workspace**
 
-An end-to-end full-stack AI application combining **Next.js/TypeScript, FastAPI, LangGraph, Pydantic, and Groq**.
+An end-to-end, deployed full-stack AI application built with **Next.js, TypeScript, FastAPI, LangGraph, Pydantic, and Groq**.
 
-Features a stateful AI workflow for lead information extraction, inquiry classification, qualification evaluation, missing-information detection, response generation, conditional routing, and human-in-the-loop review.
+Features an AI workflow for inquiry classification, lead qualification, requirements extraction, missing-information detection, and response drafting, with human-in-the-loop review and approval before saving leads.
+
+**Deployment:** Vercel (frontend) · Render (backend)
+
 
 #### 🎓 [EduAI](https://github.com/MSHAH-byte/EduAi_FYP)
 
